@@ -1,16 +1,16 @@
-# 👋: Welcome to My GitHub Profile!
+# 👋 Welcome to My GitHub Profile!
 
 ## About Me
 
 Hey there! I'm Traid, a passionate developer who currently specializes in game design! I am currently a college student studying Computer Science in hopes to become a game developer in the future!
 
-## 🚀: Projects
+## 🚀 Projects
 
 Check out some of my exciting projects in my organization: Project: Traid
 
 - [FiveM - Trucker Job](https://github.com/Program-Traid/PT-TreasureHunter) - This is a Treasure Hunting Activity that I have released for free for those who would like a Treasure Hunting job in their FiveM city.
 
-## :bar_chart:: Status
+## :bar_chart: Status
 
 <a href="https://github.com/AlwaysTraid">
   <img height=200 align="center" src="https://github-readme-stats-alwaystraids-projects.vercel.app/api?username=AlwaysTraid&show_icons=true&theme=radical" />
@@ -26,11 +26,11 @@ Check out some of my exciting projects in my organization: Project: Traid
 - 💼: [Documentation](https://project-traid.gitbook.io/program-traid-development/)
 
 
-## 🤝: Let's Collaborate
+## 🤝 Let's Collaborate
 
 I'm always open to collaborations and brainstorming on cool projects. Feel free to reach out!
 
-## :octocat:: Open Source Contributions
+## :octocat: Open Source Contributions
 
 Here are some of my notable contributions to open-source projects:
 
