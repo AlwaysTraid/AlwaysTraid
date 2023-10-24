@@ -12,8 +12,7 @@ Check out some of my exciting projects in my organization: Project: Traid
 
 ## :bar_chart:: Status
 
-[![Traid's Github Stats](https://github-readme-stats.vercel.app/api?username=AlwaysTraid)](https://github-readme-stats-wheat-two-71.vercel.app/)
-
+[![Traid's Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)]
 ## 💻 Connect with Me
 
 - :computer:: [Organization - Project: Traid](https://github.com/Program-Traid)
