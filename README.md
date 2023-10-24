@@ -12,7 +12,13 @@ Check out some of my exciting projects in my organization: Project: Traid
 
 ## :bar_chart:: Status
 
-[![Traid's Github Stats](https://github-readme-stats-wheat-two-71.vercel.app/?username=AlwaysTraid&show_icons=true&theme=tokyonight)]
+<a href="https://github.com/AlwaysTraid">
+  <img height=200 align="center" src="https://github-readme-stats-alwaystraids-projects.vercel.app/api?username=AlwaysTraid&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/AlwaysTraid">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlwaysTraid&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 ## 💻 Connect with Me
 
 - :computer:: [Organization - Project: Traid](https://github.com/Program-Traid)
