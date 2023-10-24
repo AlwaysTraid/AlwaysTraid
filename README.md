@@ -35,6 +35,7 @@ I'm always open to collaborations and brainstorming on cool projects. Feel free 
 Here are some of my notable contributions to open-source projects:
 
 - [League of Legends Voiceline Quiz](https://github.com/AlwaysTraid/League-Of-Legends-Voiceline-Quiz)
+- [Echo Bot - Verified Discord Bot](https://github.com/AlwaysTraid/Echo)
 - [Phasmophobia Handbook](https://github.com/AlwaysTraid/Phasmophobia-Handbook)
 
 
