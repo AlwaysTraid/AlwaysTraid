@@ -10,20 +10,22 @@ Check out some of my exciting projects in my organization: Project: Traid
 
 - [FiveM - Trucker Job](https://github.com/Program-Traid/PT-TreasureHunter) - This is a Treasure Hunting Activity that I have released for free for those who would like a Treasure Hunting job in their FiveM city.
 
-## :bar_chart: Status
+## :bar_chart:: Status
 
 [![Traid's Github Stats](https://github-readme-stats.vercel.app/api?username=AlwaysTraid)](https://github-readme-stats-wheat-two-71.vercel.app/)
 
 ## 💻 Connect with Me
 
+- :computer:: [Organization - Project: Traid](https://github.com/Program-Traid)
+- 🕹️: [Discord](https://discord.com/users/266378494496342016)
 - 💼: [Documentation](https://project-traid.gitbook.io/program-traid-development/)
-- 🕹️: [Personal Website/Blog](link)
+
 
 ## 🤝: Let's Collaborate
 
 I'm always open to collaborations and brainstorming on cool projects. Feel free to reach out!
 
-## :octocat: Open Source Contributions
+## :octocat:: Open Source Contributions
 
 Here are some of my notable contributions to open-source projects:
 
