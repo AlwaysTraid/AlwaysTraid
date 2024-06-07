@@ -8,7 +8,7 @@ Hey there! I'm Traid, a passionate developer who currently specializes in game d
 
 Check out some of my exciting projects in my organization: Project: Traid
 
-- [FiveM - Trucker Job](https://github.com/Program-Traid/PT-TreasureHunter) - This is a Treasure Hunting Activity that I have released for free for those who would like a Treasure Hunting job in their FiveM city.
+- [FiveM - Treasure Hunting Job](https://github.com/Program-Traid/PT-TreasureHunter) - This is a Treasure Hunting Activity that I have released for free for those who would like a Treasure Hunting job in their FiveM city.
 
 ## :bar_chart: Status
 
