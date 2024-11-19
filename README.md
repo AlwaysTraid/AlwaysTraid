@@ -3,6 +3,7 @@
 ## About Me
 
 Hey there! I'm Traid, a passionate developer who currently specializes in game design! I am currently a college student studying Computer Science in hopes to become a game developer in the future!
+
 Game Development: https://alwaystraid.itch.io/
 
 ## 🚀 Projects
