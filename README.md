@@ -1,7 +1,7 @@
 # Aryan Rejo
  
 **Associate Software Engineer @ Publicis Media** - Data Platforms, Backend, Cloud  
-Rutgers CS + Business Administration · Princeton, NJ  
+Rutgers CS + Business Administration
 [alwaystraid.com](https://alwaystraid.com) · [LinkedIn](https://www.linkedin.com/in/aryan-rejo-a46099247/)
  
 ---
